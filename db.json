@@ -1,11 +1,11 @@
 {
     "items": [
-        {"id":1, "type":"piano",  "title":"Roland RP-501R-CR", "desc": "Новая модель Roland RP501R будет идеальным первым инструментом для вас",     "price":410, "img": "/images/item1.jpg"},
-        {"id":2, "type":"piano",  "title":"Roland F-140R-WH",  "desc": "Данная модель обладает компактными габаритами и минималистичным дизайном.",  "price":800, "img": "/images/item2.jpg"},
-        {"id":3, "type":"piano",  "title":"Yamaha P-255B",     "desc": "Удобная, надежная модель парадует вас непревзойденным качеством звука.",     "price":1120,"img": "/images/item3.jpg"},
-        {"id":4, "type":"piano",  "title":"Yamaha YDP-S52B",   "desc": "Это цифровое пианино для тех, кто умеют ценить не только превосходный звук", "price":760, "img": "/images/item4.jpg"},
-        {"id":5, "type":"piano",  "title":"Casio CDP-130 BK",  "desc": "Компактное пианино от мирового производителя музыкальных инструментов",      "price":360, "img": "/images/item5.jpg"},
-        {"id":6, "type":"guitar", "title":"ESP B-154DXSTR",    "desc": "Все инструменты приятно звучат и выглядит действительно красиво!",           "price":960, "img": "/images/item6.jpg"},
-        {"id":7, "type":"guitar", "title":"Yamaha BB-235 BL",  "desc": "Новые бас-гитары серии BB оборудованы индивидуальным контролем громкости",   "price":460, "img": "/images/item7.jpg"}                
+        {"id":1, "type":"piano",  "title":"Roland RP-501R-CR", "desc": "Новая модель Roland RP501R будет идеальным первым инструментом для вас",            "price":410,  "img": "/images/item1.jpg"},
+        {"id":2, "type":"piano",  "title":"Roland F-140R-WH",  "desc": "Данная модель обладает компактными габаритами и минималистичным дизайном.",         "price":800,  "img": "/images/item2.jpg"},
+        {"id":3, "type":"piano",  "title":"Yamaha P-255B",     "desc": "Удобная, надежная модель парадует вас непревзойденным качеством звука.",            "price":1120, "img": "/images/item3.jpg"},
+        {"id":4, "type":"piano",  "title":"Yamaha YDP-S52B",   "desc": "Это цифровое пианино для тех, кто умеют ценить не только превосходный звук",        "price":760,  "img": "/images/item4.jpg"},
+        {"id":5, "type":"guitar", "title":"Strat HT HSS BLK",  "desc": "Fender - крупная американская компания по производству музыкальных инструментов",   "price":1360, "img": "/images/item5.jpg"},
+        {"id":6, "type":"guitar", "title":"ESP B-154DXSTR",    "desc": "Все инструменты приятно звучат и выглядит действительно красиво!",                  "price":960,  "img": "/images/item6.jpg"},
+        {"id":7, "type":"guitar", "title":"Yamaha BB-235 BL",  "desc": "Новые бас-гитары серии BB оборудованы индивидуальным контролем громкости",          "price":460,  "img": "/images/item7.jpg"}                
     ]
 }
