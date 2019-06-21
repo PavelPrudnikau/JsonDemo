@@ -5,7 +5,7 @@
         {"id":3, "type":"piano",  "title":"Yamaha P-255B",     "desc": "Удобная, надежная модель парадует вас непревзойденным качеством звука.",            "price":1120, "img": "/images/item3.jpg"},
         {"id":4, "type":"piano",  "title":"Yamaha YDP-S52B",   "desc": "Это цифровое пианино для тех, кто умеют ценить не только превосходный звук",        "price":760,  "img": "/images/item4.jpg"},
         {"id":5, "type":"guitar", "title":"Strat HT HSS BLK",  "desc": "Fender - крупная американская компания по производству музыкальных инструментов",   "price":1360, "img": "/images/item5.jpg"},
-        {"id":6, "type":"guitar", "title":"ESP B-154DXSTR",    "desc": "Все инструменты приятно звучат и выглядит действительно красиво!",                  "price":960,  "img": "/images/item6.jpg"},
+        {"id":6, "type":"guitar", "title":"ESP B-154DXSTR",    "desc": "Все инструменты приятно звучат и выглядит действительно очень красиво!",            "price":960,  "img": "/images/item6.jpg"},
         {"id":7, "type":"guitar", "title":"Yamaha BB-235 BL",  "desc": "Новые бас-гитары серии BB оборудованы индивидуальным контролем громкости",          "price":460,  "img": "/images/item7.jpg"}                
     ]
 }
